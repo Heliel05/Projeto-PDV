@@ -111,11 +111,6 @@ Detalha o fluxo dinâmico da adição de itens, finalização do pagamento, baix
 Ilustra o fluxo de exceção onde o Operador solicita uma ação restrita e o Gerente fornece suas credenciais para liberar o desconto.
 
 ![Diagrama de Sequência: Autorização Desconto](docs/img/autorizar_desconto_seq.png)
-```eof
-
-To make this appear correctly in your GitHub repository:
-
-1.  **Create a file:** In your GitHub repository, create a new file named `README.md`. If one already exists, edit it.
 2.  **Paste the content:** Copy all the text inside the code block above (everything between 
 ````markdown` and ````) and paste it into the `README.md` file.
 3.  **Commit the changes:** Save your changes. GitHub will automatically render this Markdown formatting into the visual layout you are looking for.
